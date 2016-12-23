@@ -1,7 +1,6 @@
-// ag-grid-ng2 v7.1.0
 import { QueryList } from "@angular/core";
 import { ColDef, SetFilterParameters, TextAndNumberFilterParameters, ICellEditor, ICellRendererFunc, ICellRenderer, IFilter, RowNode, IsColumnFunc, IAggFunc, ColGroupDef } from "ag-grid/main";
-import { GetQuickFilterTextParams } from "ag-grid/dist/lib/entities/colDef";
+import { GetQuickFilterTextParams } from "../../ag-grid/dist/lib/entities/colDef";
 export declare class AgGridColumn {
     childColumns: QueryList<AgGridColumn>;
     hasChildColumns(): boolean;
