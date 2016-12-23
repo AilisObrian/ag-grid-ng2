@@ -1,3 +1,4 @@
+// ag-grid-ng2 v7.1.0
 "use strict";
 var core_1 = require("@angular/core");
 var main_1 = require("ag-grid/main");

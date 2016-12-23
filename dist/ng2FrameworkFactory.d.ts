@@ -1,3 +1,4 @@
+// ag-grid-ng2 v7.1.0
 import { NgZone, ViewContainerRef } from "@angular/core";
 import { ICellRenderer, ICellEditor, IFrameworkFactory, IFilter, ICellRendererFunc, ColDef, GridOptions } from "ag-grid/main";
 import { BaseComponentFactory } from "./baseComponentFactory";
