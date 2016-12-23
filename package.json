@@ -44,7 +44,7 @@
     "@angular/compiler-cli": "^2.1.x",
     "@angular/core": "^2.1.x",
     "rxjs": "^5.0.0-beta.12",
-    "zone.js": "^0.6.x",
+    "zone.js": "^0.7.x",
     "core-js": "^2.4.1"
   }
 }
